@@ -1,0 +1,12 @@
+D:\BaiduNetdiskDownload\test\VideoCompressor\bin\Release\VideoCompressor.exe
+D:\BaiduNetdiskDownload\test\VideoCompressor\obj\Release\VideoCompressor.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\test\VideoCompressor\obj\Release\VideoCompressor.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\test\VideoCompressor\obj\Release\VideoCompressor.exe
+D:\BaiduNetdiskDownload\test\VideoCompressor源码\bin\Release\VideoCompressor.exe
+D:\BaiduNetdiskDownload\test\VideoCompressor源码\obj\Release\VideoCompressor.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\test\VideoCompressor源码\obj\Release\VideoCompressor.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\test\VideoCompressor源码\obj\Release\VideoCompressor.exe
+C:\Users\XuCG\WPSDrive\1718379343\WPS企业云盘\深圳市教育局\我的企业文档\Video_Compressor\Video_Compressor_x265_best\VideoCompressor\bin\Release\VideoCompressor.exe
+C:\Users\XuCG\WPSDrive\1718379343\WPS企业云盘\深圳市教育局\我的企业文档\Video_Compressor\Video_Compressor_x265_best\VideoCompressor\obj\Release\VideoCompressor.csproj.AssemblyReference.cache
+C:\Users\XuCG\WPSDrive\1718379343\WPS企业云盘\深圳市教育局\我的企业文档\Video_Compressor\Video_Compressor_x265_best\VideoCompressor\obj\Release\VideoCompressor.csproj.CoreCompileInputs.cache
+C:\Users\XuCG\WPSDrive\1718379343\WPS企业云盘\深圳市教育局\我的企业文档\Video_Compressor\Video_Compressor_x265_best\VideoCompressor\obj\Release\VideoCompressor.exe
